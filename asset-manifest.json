@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nasdaq_App/static/css/main.b7dd50da.css",
+    "main.js": "/Nasdaq_App/static/js/main.1605b5ab.js",
+    "static/js/787.dcd6e11b.chunk.js": "/Nasdaq_App/static/js/787.dcd6e11b.chunk.js",
+    "static/media/logo.png": "/Nasdaq_App/static/media/logo.19dc1ccff5f7bb2a52aa.png",
+    "index.html": "/Nasdaq_App/index.html",
+    "main.b7dd50da.css.map": "/Nasdaq_App/static/css/main.b7dd50da.css.map",
+    "main.1605b5ab.js.map": "/Nasdaq_App/static/js/main.1605b5ab.js.map",
+    "787.dcd6e11b.chunk.js.map": "/Nasdaq_App/static/js/787.dcd6e11b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7dd50da.css",
+    "static/js/main.1605b5ab.js"
+  ]
+}
