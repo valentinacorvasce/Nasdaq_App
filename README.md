@@ -1,4 +1,4 @@
-# Nasdaq_App
+# Nasdaq App
 
 Ho creato questa piccola App utilizzando la libreria ReactJS con un approccio Class Component
 
