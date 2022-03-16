@@ -6,7 +6,9 @@ Si tratta di una App che simula il monitoraggio dell'andamento della borsa ameri
 
 Per rendere la simulazione quanto più realistica mi sono servita di due API di test create appositamente con Laravel.
 
-La prima API viene interrogata tramite keywords immesse dentro una barra di ricerca e mi recupera la lista delle azioni.
+La prima API viene interrogata tramite keywords immesse dentro una barra di ricerca e mi recupera la lista delle azioni 
+(essendo tale API solamente un test ho inserito soltanto come aziende cercabili Amazon e Apple). 
+
 La seconda mi restituisce l'andamento (in guadagno o perdita) del mercato in tempo reale all'attivazione di un pulsante di checkbox
 sull'interfaccia di dettaglio di ogni singola azione.
 
@@ -17,3 +19,4 @@ e inoltre, con un operatore ternario ho simulato gli orari di apertura e di chiu
 (quella che va dalle 09:00 alle 16:00) i dati non sono più consultabili, ovvero il pulsante di checkbox che mostra i punti e le percentuali di perdita o guadagno, 
 risulta disabilitato.
 
+App testabile al seguente link:
