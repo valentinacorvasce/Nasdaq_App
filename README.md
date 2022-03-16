@@ -1,7 +1,9 @@
 # Nasdaq_App
 
 Ho creato questa piccola App utilizzando la libreria ReactJS con un approccio Class Component
+
 Si tratta di una App che simula il monitoraggio dell'andamento della borsa americana
+
 Per rendere la simulazione quanto più realistica mi sono servita di due API di test create appositamente con Laravel
 La prima API viene interrogata tramite keywords immesse dentro una barra di ricerca e mi recupera la lista delle azioni.
 La seconda mi restituisce l'andamento (in guadagno o perdita) del mercato in tempo reale all'attivazione di un pulsante di checkbox
