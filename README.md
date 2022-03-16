@@ -20,3 +20,6 @@ e inoltre, con un operatore ternario ho simulato gli orari di apertura e di chiu
 risulta disabilitato.
 
 App testabile al seguente link:
+
+https://valentinacorvasce.github.io/Nasdaq_App/
+
